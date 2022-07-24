@@ -67,7 +67,6 @@ ul {
 
 ul > li {
   background-color: #fffa;
-  -webkit-backdrop-filter: blur(10px) saturate(160%) constart(180%);
   border-radius: 10em;
   padding: 1em;
   margin: 1.4em;
